@@ -1,1 +1,10 @@
 c:\users\seth\documents\visual studio 2015\Projects\Snapt\Snapt\bin\Debug\Snapt.exe.config
+C:\Users\Seth\Desktop\Snapt Project\Snapt\Snapt\bin\Debug\Snapt.exe.config
+C:\Users\Seth\Desktop\Snapt Project\Snapt\Snapt\bin\Debug\Snapt.exe
+C:\Users\Seth\Desktop\Snapt Project\Snapt\Snapt\bin\Debug\Snapt.pdb
+C:\Users\Seth\Desktop\Snapt Project\Snapt\Snapt\obj\Debug\Snapt.csprojResolveAssemblyReference.cache
+C:\Users\Seth\Desktop\Snapt Project\Snapt\Snapt\obj\Debug\Snapt.formMain.resources
+C:\Users\Seth\Desktop\Snapt Project\Snapt\Snapt\obj\Debug\Snapt.Properties.Resources.resources
+C:\Users\Seth\Desktop\Snapt Project\Snapt\Snapt\obj\Debug\Snapt.csproj.GenerateResource.Cache
+C:\Users\Seth\Desktop\Snapt Project\Snapt\Snapt\obj\Debug\Snapt.exe
+C:\Users\Seth\Desktop\Snapt Project\Snapt\Snapt\obj\Debug\Snapt.pdb
